@@ -14,7 +14,7 @@ function johnLennonFacts(facts) {
     facts[j] = facts[j].concat("!!!")
     j++
   }
-  return array
+  return facts
 }
 
 function iLoveTheBeatles(n) {
