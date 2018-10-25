@@ -1,6 +1,6 @@
 // add solution here
 function theBeatlesPlay(musicians, instruments) {
-  var array = {}
+  var array = []
   for (var i = 0; i < array.length; i++) {
     var string = array[i] + " plays " + instruments[i]
     array.push(string)
@@ -17,7 +17,7 @@ function johnLennonFacts(facts) {
 }
 
 function iLoveTheBeatles(n) {
-  var array = {}
+  var array = []
   do {
     array.push("I love the Beatles!")
     n++
